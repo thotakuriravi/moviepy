@@ -1,4 +1,4 @@
-    ![1687353036303](image/markdown/1687353036303.png)
+    [1687353036303](image/markdown/1687353036303.png)
 
     ***Python MoviePy with ChatGPT***
 
@@ -79,6 +79,18 @@ Video Link: [https://youtu.be/wCkXnvDYLbA](https://youtu.be/wCkXnvDYLbA "Video 4
 * Making Subclips from Video
 * Removing Audio from Video
 
+Codec formats:
+
+* libx264 (H.264) (AVC)   	= Advanced Video Coding (AVC)
+* libx265 (H.265) (HEVC)  	= High-Efficiency Video Coding (HEVC). More processing power for encoding and decoding.
+* vp9	      	= Developed By Google. More computational resources for encoding and decoding.
+* av1		= Alliance. More computational resources for encoding and decoding.
+* mpeg2 		= Decent video quality but has lower compression efficiency compared to newer codecs like H.264 or VP9
+* mpeg4 		= Good video quality
+
+Video links : [https://youtu.be/gjHy5fi9MX8
+](https://youtu.be/gjHy5fi9MX8 "Video 5")
+
 ---
 
 # Git Repositorie Links
@@ -104,3 +116,5 @@ Video 2  : [https://youtu.be/w7dBq8BlOTM](https://youtu.be/w7dBq8BlOTM "Video 2"
 Video 3  : [https://youtu.be/AXFfwMjZfR0](https://youtu.be/AXFfwMjZfR0 "Video 3")
 
 Video 4  : [https://youtu.be/wCkXnvDYLbA](https://youtu.be/wCkXnvDYLbA "Video 4")
+
+Video 6  :
