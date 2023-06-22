@@ -100,19 +100,26 @@ MoviePy VideoFileClip Operations
 * moviepy video from images
 * moviepy video duration
 * moviepy video quality
+
   * moviepy video resize
   * moviepy videofileclip resize
 * moviepy video to frames
 * moviepy video to gif
 * moviepy video concatenate_videoclips
+
+  ![1687440388475](image/markdown/1687440388475.png)
 * moviepy video CompositeVideoClip
+
+  ![1687440398083](image/markdown/1687440398083.png)
 * moviepy video to audio
 
 Video Link : [https://youtu.be/kl2EoQPV144](https://youtu.be/kl2EoQPV144 "Video 6")
 
 # Video 7
 
-Moviepy video CompositeVideoClip
+* Moviepy CompositeVideoClip
+
+Video Link : [https://youtu.be/s7pTkK7lOFQ](https://youtu.be/s7pTkK7lOFQ "Video 7")
 
 ---
 
@@ -143,3 +150,5 @@ Video 4  : [https://youtu.be/wCkXnvDYLbA](https://youtu.be/wCkXnvDYLbA "Video 4"
 Video 5  : [https://youtu.be/gjHy5fi9MX8](https://youtu.be/gjHy5fi9MX8 "Video 5")
 
 Video 6  : [https://youtu.be/kl2EoQPV144](https://youtu.be/kl2EoQPV144 "Video 6")
+
+Video 7  : [https://youtu.be/s7pTkK7lOFQ](https://youtu.be/s7pTkK7lOFQ "Video 7")
