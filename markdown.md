@@ -121,6 +121,25 @@ Video Link : [https://youtu.be/kl2EoQPV144](https://youtu.be/kl2EoQPV144 "Video 
 
 Video Link : [https://youtu.be/s7pTkK7lOFQ](https://youtu.be/s7pTkK7lOFQ "Video 7")
 
+# Video 8
+
+* Adding Gif animations to Video Clip or Image Clip
+* Adding png Images to the Video
+* Adding two CompositeVideoClip's
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ---
 
 # Git Repositorie Links
