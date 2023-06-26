@@ -1,4 +1,4 @@
-    [1687353036303](image/markdown/1687353036303.png)
+    [![1687801226424](image/markdown/1687801226424.png)](image/markdown/1687353036303.png)
 
     ***Python MoviePy with ChatGPT***
 
@@ -124,19 +124,11 @@ Video Link : [https://youtu.be/s7pTkK7lOFQ](https://youtu.be/s7pTkK7lOFQ "Video 
 # Video 8
 
 * Adding Gif animations to Video Clip or Image Clip
+
+# Video 9
+
 * Adding png Images to the Video
 * Adding two CompositeVideoClip's
-
-
-
-
-
-
-
-
-
-
-
 
 
 
