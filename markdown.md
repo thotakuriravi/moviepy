@@ -125,14 +125,24 @@ Video Link : [https://youtu.be/s7pTkK7lOFQ](https://youtu.be/s7pTkK7lOFQ "Video 
 
 * Adding Gif animations to Video Clip or Image Clip
 
+Video Link : [https://youtu.be/v-a0edhwpTY](https://youtu.be/v-a0edhwpTY)
+
 # Video 9
 
 * Adding png Images to the Video
 * Adding two CompositeVideoClip's
 
+Video Link : [https://youtu.be/Zgjz8vWfJ3I](https://youtu.be/Zgjz8vWfJ3I)
 
+# Video 10
 
----
+* Adding TextClip to Video
+
+Video Link: [https://youtu.be/x1UIoYAzFIM](https://youtu.be/x1UIoYAzFIM)
+
+# Video 11
+
+* Audio Clip
 
 # Git Repositorie Links
 
@@ -163,3 +173,9 @@ Video 5  : [https://youtu.be/gjHy5fi9MX8](https://youtu.be/gjHy5fi9MX8 "Video 5"
 Video 6  : [https://youtu.be/kl2EoQPV144](https://youtu.be/kl2EoQPV144 "Video 6")
 
 Video 7  : [https://youtu.be/s7pTkK7lOFQ](https://youtu.be/s7pTkK7lOFQ "Video 7")
+
+Video 8 : [https://youtu.be/v-a0edhwpTY](https://youtu.be/v-a0edhwpTY)
+
+Video 9 : [https://youtu.be/Zgjz8vWfJ3I](https://youtu.be/Zgjz8vWfJ3I)
+
+Video 10 : [https://youtu.be/x1UIoYAzFIM](https://youtu.be/x1UIoYAzFIM)
