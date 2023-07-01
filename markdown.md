@@ -144,6 +144,52 @@ Video Link: [https://youtu.be/x1UIoYAzFIM](https://youtu.be/x1UIoYAzFIM)
 
 * Audio Clip
 
+Video link : [https://youtu.be/QbcVKVuiAMw](https://youtu.be/QbcVKVuiAMw)
+
+# Video 12
+
+* Utility library's ( uuid, openpyxl, openai ) installation
+
+  * uuid 	- To generate uniq id's
+  * openpyxl - To operate Excel files
+  * openai 	- To interact with ChatGPT ([https://youtu.be/AXFfwMjZfR0](https://youtu.be/AXFfwMjZfR0 "Video 3"))
+* > Reference Video for all basic installtions : [https://youtu.be/AXFfwMjZfR0](https://youtu.be/AXFfwMjZfR0 "Video 3")
+  >
+* Data Preparing and Automation using GhatGPT
+* Starting MoviePy Project
+
+  1. main.py
+  2. functions.py
+  3. path.py
+
+Part 1 : [https://youtu.be/V0vQobpv_9Q](https://youtu.be/V0vQobpv_9Q)
+
+Part 2 : [https://youtu.be/Nxw8KhJ_Wvk](https://youtu.be/Nxw8KhJ_Wvk)
+
+Part 3 : [https://youtu.be/CeKy0QwDInY](https://youtu.be/CeKy0QwDInY)
+
+# Video 13:
+
+* Adding Watermark to the Video
+
+Video link: [https://youtu.be/4cKkkaj7_S4](https://youtu.be/4cKkkaj7_S4)
+
+# Video 14:
+
+Type's of Widescreen Video Concepts:
+
+1. Automated Topic & Description
+2. Manual Topic & Description
+3. Quotations
+
+   * Automatic Quotation
+   * Manual Quotations
+4. Customization
+
+
+
+
+
 # Git Repositorie Links
 
 HTTPS		:	[https://github.com/thotakuriravi/moviepy.git ](https://github.com/thotakuriravi/moviepy.git)
@@ -179,3 +225,13 @@ Video 8 : [https://youtu.be/v-a0edhwpTY](https://youtu.be/v-a0edhwpTY)
 Video 9 : [https://youtu.be/Zgjz8vWfJ3I](https://youtu.be/Zgjz8vWfJ3I)
 
 Video 10 : [https://youtu.be/x1UIoYAzFIM](https://youtu.be/x1UIoYAzFIM)
+
+video 11 : [https://youtu.be/QbcVKVuiAMw](https://youtu.be/QbcVKVuiAMw)
+
+video 12 part 1 : [https://youtu.be/V0vQobpv_9Q](https://youtu.be/V0vQobpv_9Q)
+
+video 12 part 2 : [https://youtu.be/Nxw8KhJ_Wvk](https://youtu.be/Nxw8KhJ_Wvk)
+
+video 12 part 3 : [https://youtu.be/CeKy0QwDInY](https://youtu.be/CeKy0QwDInY)
+
+video 13 : [https://youtu.be/4cKkkaj7_S4](https://youtu.be/4cKkkaj7_S4)

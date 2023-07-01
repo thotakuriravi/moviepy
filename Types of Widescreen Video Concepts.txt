@@ -1,0 +1,33 @@
+
+Note: Video width = 1920 px, Height = 1080 px
+
+
+1. Automated Topic & Description
+    Like what we did on earlier. Here we select Topic from data file and ask chatGPT to explain the topic.
+
+2. Manual Topic & Description
+    if we have Topic and Content in Our Hands
+
+    Ex:
+        Topic: "The Importance of Sleep for Optimal Health"
+
+        Description:
+        A good night's sleep is crucial for maintaining optimal health and well-being. Sleep plays a vital role in various aspects of our physical and mental health. During sleep, our bodies undergo important processes that promote healing, restore energy levels, and support cognitive functions.
+
+        Quality sleep is associated with numerous health benefits. It helps regulate hormones, such as cortisol and insulin, which are critical for metabolism and blood sugar control. Sufficient sleep also boosts immune function, reducing the risk of infections and chronic diseases.
+
+        Additionally, sleep is closely linked to cognitive function and mental well-being. It enhances concentration, memory retention, and problem-solving abilities. On the other hand, chronic sleep deprivation can lead to difficulties in focusing, impaired decision-making, and increased susceptibility to stress and mood disorders.
+
+        Moreover, sleep plays a crucial role in maintaining a healthy weight. Lack of sleep can disrupt appetite-regulating hormones, leading to increased cravings for unhealthy foods and a higher risk of obesity.
+
+        To optimize sleep quality, it is important to establish a consistent sleep routine, create a comfortable sleep environment, and practice good sleep hygiene habits. This includes avoiding stimulants before bedtime, limiting exposure to electronic devices, and engaging in relaxation techniques like meditation or gentle stretching.
+
+        Prioritizing sleep as an integral part of a healthy lifestyle is essential for overall well-being. By understanding and valuing the importance of quality sleep, we can enhance our physical health, cognitive abilities, and emotional resilience, ultimately leading to a happier and healthier life.
+
+3. Quotations:
+    
+    Automatic Quotation :
+            Here again we can save Quotations in a excel file and make automation
+
+    Manual Quotations :
+            Simple write or copy the Quotation from outside and make video on Quotation 
