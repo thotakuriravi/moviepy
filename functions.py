@@ -54,7 +54,7 @@ def chatGPT(topic):
         else:
             final_lines.append(line)
 
-    final_lines
+    # final_lines
     
     return final_lines
 
@@ -220,6 +220,18 @@ def data_manger(topic, index):
     
     
     
+def quote_pick():
+    # read data to the excel file using python openpyxl
     
-    
+    workbook = xl.load_workbook(path.quote_file)
+    workbook_active = workbook.active
+    # print(workbook_active.max_column)
+    # print(workbook_active.max_row) # data in between 1, 3
 
+    index_of_row = random.randint(1, workbook_active.max_row)
+    # print(index_of_row)
+
+    quote = workbook_active.cell(row= index_of_row, column= 1 ).value
+    quote_author = workbook_active.cell(row= index_of_row, column= 2 ).value
+    
+    return index_of_row, quote, quote_author

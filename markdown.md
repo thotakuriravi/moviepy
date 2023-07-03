@@ -168,17 +168,17 @@ Part 2 : [https://youtu.be/Nxw8KhJ_Wvk](https://youtu.be/Nxw8KhJ_Wvk)
 
 Part 3 : [https://youtu.be/CeKy0QwDInY](https://youtu.be/CeKy0QwDInY)
 
-# Video 13:
+# Video 13
 
 * Adding Watermark to the Video
 
 Video link: [https://youtu.be/4cKkkaj7_S4](https://youtu.be/4cKkkaj7_S4)
 
-# Video 14:
+# Video 14
 
-Type's of Widescreen Video Concepts:
+Type's of Widescreen Video Concepts (Project Customization):
 
-1. Automated Topic & Description
+1. Automated Topic & Description  (main.py)
 2. Manual Topic & Description
 3. Quotations
 
@@ -186,9 +186,44 @@ Type's of Widescreen Video Concepts:
    * Manual Quotations
 4. Customization
 
+**Refference: Video Dimensions (Wide Screen Video)**
+
+* `3840*2160`  4k video
+* `1920*1080`  1080p video
+* `1280*720`     720p video
+
+Video link: [https://youtu.be/K4dwxZTECas](https://youtu.be/K4dwxZTECas)
+
+# Video 15
+
+Making Shorts Videos (Landscape)(9:16) Using Moviepy
+
+1. Automated Topic & Description
+2. Manual Topic & Description
+3. Quotations
+   * Automatic Quotation
+   * Manual Quotations
+
+**Refference: Shorts Video Dimensions (Landscape Video)**
+
+* `2160*3840`  4k video
+* `1080*1920`  1080p video
+* `720*1280`    720p video
+
+***Suggested Videos links:***
+
+* Moviepy , ImageMagick Installations : [https://youtu.be/bIv1RjaxXnE]([https://youtu.be/bIv1RjaxXnE]())
+
+  `00:56` - Python Installation తెలుగు లో
+  `03:20` - Image Magick Installation తెలుగు లో
+  `12:00` - VSCode Installation తెలుగు లో
+  `15:56` - OpenAI API Creation తెలుగు లో
+  `31:24` - Moviepy Installation and Command for moviepy installation తెలుగు లో
+  `35:24` - install python library's from requirements.txt file
+* Custom fonts installaton on MoviePy and Imagemagick softwares:  [https://youtu.be/BFuaDe1mOaE](https://youtu.be/BFuaDe1mOaE)
 
 
-
+Video link : [https://youtu.be/gaW7r-_7QE4](https://youtu.be/gaW7r-_7QE4)
 
 # Git Repositorie Links
 
@@ -220,18 +255,22 @@ Video 6  : [https://youtu.be/kl2EoQPV144](https://youtu.be/kl2EoQPV144 "Video 6"
 
 Video 7  : [https://youtu.be/s7pTkK7lOFQ](https://youtu.be/s7pTkK7lOFQ "Video 7")
 
-Video 8 : [https://youtu.be/v-a0edhwpTY](https://youtu.be/v-a0edhwpTY)
+Video 8  : [https://youtu.be/v-a0edhwpTY](https://youtu.be/v-a0edhwpTY)
 
-Video 9 : [https://youtu.be/Zgjz8vWfJ3I](https://youtu.be/Zgjz8vWfJ3I)
+Video 9  : [https://youtu.be/Zgjz8vWfJ3I](https://youtu.be/Zgjz8vWfJ3I)
 
 Video 10 : [https://youtu.be/x1UIoYAzFIM](https://youtu.be/x1UIoYAzFIM)
 
-video 11 : [https://youtu.be/QbcVKVuiAMw](https://youtu.be/QbcVKVuiAMw)
+Video 11 : [https://youtu.be/QbcVKVuiAMw](https://youtu.be/QbcVKVuiAMw)
 
-video 12 part 1 : [https://youtu.be/V0vQobpv_9Q](https://youtu.be/V0vQobpv_9Q)
+Video 12 part 1 : [https://youtu.be/V0vQobpv_9Q](https://youtu.be/V0vQobpv_9Q)
 
-video 12 part 2 : [https://youtu.be/Nxw8KhJ_Wvk](https://youtu.be/Nxw8KhJ_Wvk)
+Video 12 part 2 : [https://youtu.be/Nxw8KhJ_Wvk](https://youtu.be/Nxw8KhJ_Wvk)
 
-video 12 part 3 : [https://youtu.be/CeKy0QwDInY](https://youtu.be/CeKy0QwDInY)
+Video 12 part 3 : [https://youtu.be/CeKy0QwDInY](https://youtu.be/CeKy0QwDInY)
 
-video 13 : [https://youtu.be/4cKkkaj7_S4](https://youtu.be/4cKkkaj7_S4)
+Video 13 : [https://youtu.be/4cKkkaj7_S4](https://youtu.be/4cKkkaj7_S4)
+
+Video 14 : [https://youtu.be/K4dwxZTECas](https://youtu.be/K4dwxZTECas)
+
+Video 15 : [https://youtu.be/gaW7r-_7QE4](https://youtu.be/gaW7r-_7QE4)

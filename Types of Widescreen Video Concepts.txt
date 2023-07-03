@@ -1,9 +1,9 @@
 
-Note: Video width = 1920 px, Height = 1080 px
+Note: Video width = 1920 px, Height = 1080 px . Size = (1920, 1080)
 
 
 1. Automated Topic & Description
-    Like what we did on earlier. Here we select Topic from data file and ask chatGPT to explain the topic.
+    Like what we did on earlier videos. Here we select Topic from data file and ask chatGPT to explain that topic.
 
 2. Manual Topic & Description
     if we have Topic and Content in Our Hands
@@ -31,3 +31,5 @@ Note: Video width = 1920 px, Height = 1080 px
 
     Manual Quotations :
             Simple write or copy the Quotation from outside and make video on Quotation 
+
+

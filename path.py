@@ -15,6 +15,7 @@ clips_bg_images = gallery_path + 'clips_bg_images/'
 
 data_file = 'data/data.xlsx'
 completed_data_file = 'data/video_completed_data.xlsx'
+quote_file = 'data/quotations.xlsx'
 
 #----------- OpenAI API Key
 openai_api_key = os.getenv("OPENAI_API_KEY")
